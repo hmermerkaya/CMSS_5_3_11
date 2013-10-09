@@ -24,6 +24,8 @@ DEFINE_FWK_MODULE (WValidation);
 
 #include "Validation/EventGenerator/interface/TauValidation.h"
 DEFINE_FWK_MODULE (TauValidation);
+#include "Validation/EventGenerator/interface/TauValidation_Spinner.h"
+DEFINE_FWK_MODULE (TauValidation_Spinner);
 
 #include "Validation/EventGenerator/interface/TTbar_GenJetAnalyzer.h"
 DEFINE_FWK_MODULE(TTbar_GenJetAnalyzer);
