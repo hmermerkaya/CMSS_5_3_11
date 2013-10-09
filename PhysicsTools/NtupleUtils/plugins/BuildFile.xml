@@ -1,0 +1,6 @@
+<use name="CommonTools/UtilAlgos"/>
+<use name="HLTrigger/HLTcore"/>
+<library file="*.cc" name="PhysicsToolsNtupleUtilsPlugins">
+  <flags EDM_PLUGIN="1"/>
+  <use name="PhysicsTools/NtupleUtils"/>
+</library>

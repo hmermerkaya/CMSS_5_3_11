@@ -1,0 +1,20 @@
+/BuildFile.xml/1.3/Wed Nov  2 14:01:26 2011//TV03-09-28
+/CorrectedPATMETProducer.cc/1.1/Fri Sep 16 08:09:52 2011//TV03-09-28
+/MinPatMETProducer.cc/1.1/Sat Sep 15 16:44:12 2012//TV03-09-28
+/PATCaloJetMETcorrInputProducer.cc/1.3/Mon Feb 13 14:12:13 2012//TV03-09-28
+/PATPFJetMETcorrInputProducer.cc/1.3/Mon Feb 13 14:12:13 2012//TV03-09-28
+/ShiftedJetProducer.cc/1.1/Fri Aug 31 10:06:13 2012//TV03-09-28
+/ShiftedMETcorrInputProducer.cc/1.2/Fri Oct 14 12:00:17 2011//TV03-09-28
+/ShiftedMETcorrInputProducer.h/1.2/Fri Oct 14 12:00:17 2011//TV03-09-28
+/ShiftedPATJetProducer.cc/1.2/Mon Feb 13 14:12:13 2012//TV03-09-28
+/ShiftedPATObjectProducer.cc/1.1/Fri Oct 14 11:18:24 2011//TV03-09-28
+/ShiftedPFCandidateProducer.cc/1.1/Fri Aug 31 10:06:13 2012//TV03-09-28
+/ShiftedPFCandidateProducerForNoPileUpPFMEt.cc/1.2/Fri Nov 30 11:35:50 2012//TV03-09-28
+/ShiftedPFCandidateProducerForNoPileUpPFMEt.h/1.1/Fri Aug 31 10:06:13 2012//TV03-09-28
+/ShiftedPFCandidateProducerForPFMEtMVA.cc/1.1/Fri Aug 31 10:06:14 2012//TV03-09-28
+/ShiftedPFCandidateProducerForPFMEtMVA.h/1.1/Fri Aug 31 10:06:14 2012//TV03-09-28
+/ShiftedParticleMETcorrInputProducer.cc/1.1/Fri Oct 14 11:18:24 2011//TV03-09-28
+/ShiftedParticleMETcorrInputProducer.h/1.1/Fri Oct 14 11:18:24 2011//TV03-09-28
+/SmearedJetProducer.cc/1.4/Mon Feb 13 14:12:13 2012//TV03-09-28
+/SmearedPATJetProducer.cc/1.5/Fri May  4 08:57:58 2012//TV03-09-28
+D
